@@ -1,5 +1,8 @@
 _repo: The-colour-out-of-space_68236
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68236-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: http://en.wikipedia.org/wiki/H_P_Lovecraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68236#The-colour-out-of-space
 gutenberg_issued: '2022-06-04'
 identifiers:
   gutenberg: '68236'
